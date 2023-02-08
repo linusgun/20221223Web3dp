@@ -1,0 +1,56 @@
+.footerMain {
+  background-color: black;
+  color: white;
+  font-size: 0.8rem;
+}
+
+.media {
+  align-items: center;
+  justify-content: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  display: flex;
+}
+
+.media .texto {
+  text-align: center;
+  font-size: 1.1rem;
+  width: 100px;
+}
+
+.media img {
+  width: 30px;
+  height: 30px;
+  margin-left: 1rem;
+}
+
+.siteMap {
+  flex-basis: 100%;
+  display: flex;
+  padding: 2rem;
+}
+
+.siteMap ul:nth-child(1) {
+  flex-basis: 180px;
+  border-left: 2px #ffe883 solid;
+  padding-left: 1.5rem;
+}
+
+.siteMap ul:nth-child(2) {
+  flex-basis: 180px;
+}
+
+.siteMap ul li {
+  line-height: 30px;
+  list-style: none;
+}
+
+.siteMap ul li:nth-child(1) {
+  color: #ffe883;
+  font-weight: bolder;
+}
+
+.siteMap ul li a {
+  text-decoration: none;
+  color: white;
+}

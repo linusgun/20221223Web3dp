@@ -63,7 +63,6 @@ nav .main_nav {
 .dropdownMenu {
   position: absolute;
   left: 2rem;
-  /* right: 0rem; */
   top: calc(100% + 0.25rem);
   background-color: black;
   color: white;

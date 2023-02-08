@@ -5,6 +5,7 @@ import Materials from "./pages/Materials.js"
 import NavBar from "./NavBar"
 import Banner from "./Banner"
 import Form from "./Form"
+import Footer from "./Footer"
 import { Route, Routes } from "react-router-dom"
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <NavBar />
       <Banner />
       <Form />
+      <Footer />
       <div className="container">
         <Routes>
           <Route path="/jewelry" element={<Jewelry />} />

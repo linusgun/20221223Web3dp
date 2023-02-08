@@ -1,0 +1,22 @@
+## To Do
+
+- Api to fill countries select in the form
+- Navbar should be thinner, change the logo
+- Article module.
+- Use article module for jewelry and foundry
+- Update pages using route. In navbar module
+- Links with router in the footer
+- Publish the website
+
+## Nice to have
+
+- Send from my mail a copy of the message to the client (no code, just a rule in the mailbox)
+- Contact chat (whatsapp integration)
+- Printer card component
+- Material finder
+- News component for the first page
+
+## Done
+
+- Footer. It should include the "follow me" button of linkedin
+- Send email action form
